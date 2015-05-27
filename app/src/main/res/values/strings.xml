@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">哎嘛</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- V2 -->
+    <string name="tab_name_article">资讯</string>
+    <string name="tab_name_question">问答</string>
+    <string name="tab_name_tweet">动弹</string>
+    <string name="tab_name_me">我</string>
+    <string name="frame_title_news_lastest">最新资讯</string>
+    <string name="frame_title_news_blog">最新博客</string>
+    <string name="frame_title_news_recommend">推荐阅读</string>
+    <string name="frame_title_question_ask">问答</string>
+    <string name="frame_title_question_share">分享</string>
+    <string name="frame_title_question_other">综合</string>
+    <string name="frame_title_question_job">职业</string>
+    <string name="frame_title_question_site">站务</string>
+    <string name="frame_title_tweet_lastest">最新动弹</string>
+    <string name="frame_title_tweet_hot">热门动弹</string>
+    <string name="frame_title_tweet_my">我的动弹</string>
+    <string name="frame_title_tweet_send">动弹一下</string>
+    <string name="frame_title_active_lastest">最新</string>
+    <string name="frame_title_active_atme">\@我</string>
+    <string name="frame_title_active_comment">评论</string>
+    <string name="frame_title_active_myself">我</string>
+    <string name="frame_title_active_message">留言</string>
+    <string name="frame_title_friend_following">关注</string>
+    <string name="frame_title_friend_follower">粉丝</string>
+    <string name="frame_title_favorite_software">软件</string>
+    <string name="frame_title_favorite_post">话题</string>
+    <string name="frame_title_favorite_code">代码</string>
+    <string name="frame_title_favorite_blog">博客</string>
+    <string name="frame_title_favorite_news">资讯</string>
+
+    <string name="frame_title_software_catalog">分类</string>
+    <string name="frame_title_software_recommend">推荐</string>
+    <string name="frame_title_software_lastest">最新</string>
+    <string name="frame_title_software_hot">热门</string>
+    <string name="frame_title_software_china">国产</string>
+</resources>

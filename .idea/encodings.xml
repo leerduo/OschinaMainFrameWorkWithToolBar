@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/dystu/toolbar/BaseActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/dystu/toolbar/IPagerFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/dystu/toolbar/NewsTab.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/dystu/toolbar/widget/CircleImageView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/dystu/toolbar/widget/FixedRecyclerView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/dystu/toolbar/widget/MaterialProgressDrawable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/dystu/toolbar/widget/MySwipeRefreshLayout.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/anim/activity_close_enter_fade_forward.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/anim/activity_close_exit_slide_out_right.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/anim/activity_open_enter_slide_in_left.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/anim/activity_open_exit_fade_back.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/anim/dialog_enter.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/anim/dialog_exit.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/color/primarybar_txt.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/actionbar_back_icon_normal.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/actionbar_download_icon.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/actionbar_favorite_icon.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/actionbar_more_icon.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/actionbar_post_icon.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/actionbar_search_icon.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/actionbar_send_icon.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/actionbar_share_icon.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/actionbar_today_icon.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/actionbar_unfavorite_icon.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/header_shadow.9.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/umeng_socialize_titlebar_item_background_selector.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/v2_activity_main.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/v2_fragment_swipe_refresh_recyclerview.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/v2_fragment_viewpager2.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/v2_tab_indicator.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/v2_view_actionbar.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu/main_menu.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/attrs.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
